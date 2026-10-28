@@ -597,3 +597,4 @@ Use this as a quick reference to confirm your VPS is hardened:
 | [Docker Setup](guides/docker-setup.md) | Install Docker Engine, harden the daemon, and learn essential commands |
 | [Node.js Setup](guides/nodejs-setup.md) | Install Node.js via nvm and set up a production-ready environment |
 | [Git Setup](guides/git-setup.md) | Install Git, configure SSH keys for GitHub/GitLab, manage multiple identities, and learn essential commands |
+| [DuckDB Setup](guides/duckdb-setup.md) | Install DuckDB, load and query CSV/Parquet/JSON files, use the Python API, and manage extensions |
