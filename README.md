@@ -585,3 +585,14 @@ Use this as a quick reference to confirm your VPS is hardened:
 - [SSH Hardening Guide (Mozilla)](https://infosec.mozilla.org/guidelines/openssh)
 - [UFW Documentation](https://help.ubuntu.com/community/UFW)
 - [Fail2Ban Wiki](https://www.fail2ban.org/wiki/index.php/Main_Page)
+
+---
+
+## 🗂️ Additional Guides
+
+| Guide | Description |
+|-------|-------------|
+| [Tailscale Setup](guides/tailscale-setup.md) | Install Tailscale, build a private mesh network, configure exit nodes and subnet routing |
+| [Cloudflare Tunnel](guides/cloudflare-tunnel.md) | Expose services to the internet without opening any inbound ports |
+| [Docker Setup](guides/docker-setup.md) | Install Docker Engine, harden the daemon, and learn essential commands |
+| [Node.js Setup](guides/nodejs-setup.md) | Install Node.js via nvm and set up a production-ready environment |
