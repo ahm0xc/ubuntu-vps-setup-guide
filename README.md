@@ -596,3 +596,4 @@ Use this as a quick reference to confirm your VPS is hardened:
 | [Cloudflare Tunnel](guides/cloudflare-tunnel.md) | Expose services to the internet without opening any inbound ports |
 | [Docker Setup](guides/docker-setup.md) | Install Docker Engine, harden the daemon, and learn essential commands |
 | [Node.js Setup](guides/nodejs-setup.md) | Install Node.js via nvm and set up a production-ready environment |
+| [Git Setup](guides/git-setup.md) | Install Git, configure SSH keys for GitHub/GitLab, manage multiple identities, and learn essential commands |
