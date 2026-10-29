@@ -599,3 +599,4 @@ Use this as a quick reference to confirm your VPS is hardened:
 | [Git Setup](guides/git-setup.md) | Install Git, configure SSH keys for GitHub/GitLab, manage multiple identities, and learn essential commands |
 | [DuckDB Setup](guides/duckdb-setup.md) | Install DuckDB, load and query CSV/Parquet/JSON files, use the Python API, and manage extensions |
 | [Meilisearch Setup](guides/meilisearch-setup.md) | Install Meilisearch, configure systemd/Docker, secure with Nginx & SSL, and manage API keys & backups |
+| [Beszel Setup](guides/beszel-setup.md) | Monitor your VPS from a local dashboard, track Docker/system metrics, and receive instant downtime alerts |
